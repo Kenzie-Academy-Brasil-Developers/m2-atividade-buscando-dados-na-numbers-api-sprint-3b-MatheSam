@@ -10,7 +10,7 @@ const inputdate = document.createElement('input');
 
 inputTrivia.placeholder = 'Digite um número qualquer';
 inputYear.placeholder = 'Digite um ano';
-inputdate.placeholder = 'Digite um mês e um dia';
+inputdate.placeholder = 'mm/dd';
 
 const pTrivia = document.createElement('p')
 const pYear = document.createElement('p')
